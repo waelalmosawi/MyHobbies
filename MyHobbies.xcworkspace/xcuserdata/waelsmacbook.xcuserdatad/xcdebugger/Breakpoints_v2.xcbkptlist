@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyHobbies/test.swift"
+            timestampString = "575834692.201471"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "testttttt"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyHobbies.testttttt.tableView.getter : weak Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "MyHobbies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/waelsmacbook/Desktop/MYHOB/MyProject/MyHobbies/MyHobbies/test.swift"
+                  timestampString = "575834673.211362"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyHobbies.testttttt.tableView.setter : weak Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "MyHobbies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/waelsmacbook/Desktop/MYHOB/MyProject/MyHobbies/MyHobbies/test.swift"
+                  timestampString = "575834673.22379"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyHobbies.testttttt.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MyHobbies.testttttt"
+                  moduleName = "MyHobbies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/waelsmacbook/Desktop/MYHOB/MyProject/MyHobbies/MyHobbies/test.swift"
+                  timestampString = "575834673.226495"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyHobbies.testttttt.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MyHobbies.testttttt&gt;"
+                  moduleName = "MyHobbies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/waelsmacbook/Desktop/MYHOB/MyProject/MyHobbies/MyHobbies/test.swift"
+                  timestampString = "575834673.229087"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyHobbies/Tessssst.swift"
+            timestampString = "577309418.739414"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
